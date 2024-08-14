@@ -48,7 +48,7 @@ Each model was evaluated using the listed metrics, and the accuracy was compared
 
 ### Key Findings
 
-- **Best Performing Model:** [Logistic Regression]
+- **Best Performing Model:** Logistic Regression with Accuracy of 82.75%
 
 ## Conclusion
 This project demonstrates the application of various machine learning algorithms to predict rainfall, providing insights into the strengths and weaknesses of different models. The comprehensive evaluation metrics help in selecting the most appropriate model for the task.
